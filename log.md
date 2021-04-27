@@ -1,0 +1,41 @@
+# 100 Days Of Code - Log
+
+## Day 1: Apr 22, 2021
+
+**Today's Progress**: Learned about update and delete on the CRUD operations for MongoDB.
+
+**Thoughts:** I thought it was pretty easy to learn about the CRUD operations for MongoDB. It was pretty similar to the CRUD operations using SQLite on Rails.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/task-manager)
+
+## Day 2: Apr 23, 2021
+
+**Today's Progress**: Installed and used Mongoose to create models and validate data.
+
+**Thoughts:** Very easy and straightforward to create models and validate data. I see similarities between how Mongoose and Rails validate data. Having fun learning new things and wanting more of it!
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/task-manager)
+
+## Day 3: Apr 24, 2021
+
+**Today's Progress**: Recap on REST API. Also installed and used Postman to test endpoints for task app.
+
+**Thoughts:** At first had problems with creating documents into mongodb but found out that I didn't start it up. REST API was a recap. Using mongoose and express, I inserted documents into mongodb database. Having fun learning new and old things.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/task-manager)
+
+## Day 4: Apr 25, 2021
+
+**Today's Progress**: In Node.js, used REST API to read documents from mongodb database. Also learned about promise chaining and its syntax.
+
+**Thoughts:** REST API part was easy since I went through them so many times in class and projects. Promise chaining was something new to me and it made code look so much cleaner than nesting promises so many levels deep. I enjoy just programming!
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/task-manager)
+
+## Day 5: Apr 26, 2021
+
+**Today's Progress**: Learned about async and await.
+
+**Thoughts:** Async and await made the code cleaner because of less callbacks in the task app routes. I know that I can use these keywords to clean up my projects from school using promises. So much to refactoring to do, so little time!
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/index.js)
