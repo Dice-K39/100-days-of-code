@@ -39,3 +39,11 @@
 **Thoughts:** Async and await made the code cleaner because of less callbacks in the task app routes. I know that I can use these keywords to clean up my projects from school using promises. So much to refactoring to do, so little time!
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/index.js)
+
+## Day 6: Apr 27, 2021
+
+**Today's Progress**: Recap on the U and D of CRUD operation. Also separated route files in my task app.
+
+**Thoughts:** The update as usual is complex. Will have to come back to the update operation to understand it more. It was nice to have separation of concerns for the routes because of how long the index file was getting on the task app.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/index.js)
