@@ -46,4 +46,12 @@
 
 **Thoughts:** The update as usual is complex. Will have to come back to the update operation to understand it more. It was nice to have separation of concerns for the routes because of how long the index file was getting on the task app.
 
-**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/index.js)
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/)
+
+## Day 7: Apr 28, 2021
+
+**Today's Progress**: Used bcryptjs to hash passwords of users.
+
+**Thoughts:** A recap from my Rails days except how to use in JavaScript. Also used the pre hook middlware to hash passwords before saving.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
