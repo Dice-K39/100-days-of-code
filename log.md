@@ -55,3 +55,11 @@
 **Thoughts:** A recap from my Rails days except how to use in JavaScript. Also used the pre hook middlware to hash passwords before saving.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 8: Apr 29, 2021
+
+**Today's Progress**: Learned about JWT (JSON Web Token). Also disabled routes in my task app by using express middleware.
+
+**Thoughts:** JWT authentication is pretty new to me. I am used to using HTTP cookies to authenticate users. Must delve deeper into JWT. I finally understand how middleware works with the use of express routes.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
