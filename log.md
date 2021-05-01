@@ -71,3 +71,11 @@
 **Thoughts:** Learning about accepting JWT authentication tokens was challenging. I am used to session cookies to authenticate. I see the benefit of using JWT authentication because these tokens are saved in the client side. Session cookies uses server memory so if many users logs in the server may slow down. Better techniques in Postman helped me streamline the process so that I don't have to do redundant tasks such as setting the url with minor differences for each REST route.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 10: May 1, 2021
+
+**Today's Progress**: Learned a little more about authenticating users with JWT.
+
+**Thoughts:** Understanding authentication and authorization is important because of so much is riding on technology these days. I need to study more about authentication.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
