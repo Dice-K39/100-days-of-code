@@ -79,3 +79,11 @@
 **Thoughts:** Understanding authentication and authorization is important because of so much is riding on technology these days. I need to study more about authentication.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 11: May 2, 2021
+
+**Today's Progress**: Learned how to setup relationships in Node.js. With that, also setup task app to only display a user's tasks than displaying everyone's tasks. This lets the current user only modify their own tasks.
+
+**Thoughts:** Setting up relationship in Node.js is confusing. Task belongs-to User relationship requires a property within the Task model and the User has-many Tasks relationship requires a virtual property to the User model (not in the curly braces of the User model but a separate property). The virtual property is only a reference to the task data that is stored in a separate collection.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
