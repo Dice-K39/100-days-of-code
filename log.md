@@ -87,3 +87,11 @@
 **Thoughts:** Setting up relationship in Node.js is confusing. Task belongs-to User relationship requires a property within the Task model and the User has-many Tasks relationship requires a virtual property to the User model (not in the curly braces of the User model but a separate property). The virtual property is only a reference to the task data that is stored in a separate collection.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 12: May 3, 2021
+
+**Today's Progress**: Learned how to put timestamps onto data that has been created. Also added options to filter, paginate, and sort data.
+
+**Thoughts:** The way NodeJS add timestamps and filter, paginate, and sort reminds me how easy it was to do that in Rails. JavaScript feels a bit manual work but that makes it more worthwhile to program in JavaScript. It's fun!
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
