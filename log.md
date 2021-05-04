@@ -95,3 +95,11 @@
 **Thoughts:** The way NodeJS add timestamps and filter, paginate, and sort reminds me how easy it was to do that in Rails. JavaScript feels a bit manual work but that makes it more worthwhile to program in JavaScript. It's fun!
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 13: May 4, 2021
+
+**Today's Progress**: Used a new npm package called multer to upload files. Validated those files using regex.
+
+**Thoughts:** Multer is easy to use to upload files.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
