@@ -103,3 +103,11 @@
 **Thoughts:** Multer is easy to use to upload files.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 14: May 5, 2021
+
+**Today's Progress**: Learned how to handle express errors, adding images to user profiles in database instead of a folder in the project, fetching images, and using sharp to auto-crop and format an image.
+
+**Thoughts:** Formatting an image is straightforward. I need to go through npm packages if I start making an app because of so much resources that is available to programmers.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
