@@ -116,6 +116,8 @@
 
 **Today's Progress**: Learned about SendGrid and nodemailer. Sent welcome and cancelation emails to myself for creating and canceling accounts on my task app.
 
+**Epilogue**: Had to mess with git because I pushed sensitive data to github. Took me awhile to figure it out and remove the data. Need to study git!
+
 **Thoughts:** It was pretty exciting creating and sending emails to myself for account creation and cancelation for my task app. Bad that SendGrid had to temporarily restrict my account because of suspicious activity which is only using their service to learn about creating emails. At least I learned about nodemailer too.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
