@@ -121,3 +121,19 @@
 **Thoughts:** It was pretty exciting creating and sending emails to myself for account creation and cancelation for my task app. Bad that SendGrid had to temporarily restrict my account because of suspicious activity which is only using their service to learn about creating emails. At least I learned about nodemailer too.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 16: May 7, 2021
+
+**Today's Progress**: Learned how to use MongoDB Atlas and Compass so that I am able to host my task app on heroku.
+
+**Thoughts:** Pushing to heroku is cumbersome because of how much more I have to do to get it hosted on the console. It is a good feeling that my app is in production on heroku.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 17: May 8, 2021
+
+**Today's Progress**: Installed jest and learned how to create test cases for example code. Also learned how to create asynchronous code tests.
+
+**Thoughts:** Jest made creating test for code easy. I knew I needed to learn how to code tests for my code one day. 
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
