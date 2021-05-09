@@ -134,6 +134,14 @@
 
 **Today's Progress**: Installed jest and learned how to create test cases for example code. Also learned how to create asynchronous code tests.
 
-**Thoughts:** Jest made creating test for code easy. I knew I needed to learn how to code tests for my code one day. 
+**Thoughts:** Jest made creating test for code easy. I knew I needed to learn how to code tests for my code one day.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 18: May 9, 2021
+
+**Today's Progress**: Learned how to test express application using npm package called supertest. Also learned about jest lifecycle methods that runs before and after each test case.
+
+**Thoughts:** Although I haven't tested my code through school, I am starting to like Jest because of how easy it is to use. I will have to learn more about it so that I can learn more advanced testing cases.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
