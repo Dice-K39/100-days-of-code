@@ -145,3 +145,11 @@
 **Thoughts:** Although I haven't tested my code through school, I am starting to like Jest because of how easy it is to use. I will have to learn more about it so that I can learn more advanced testing cases.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 19: May 10, 2021
+
+**Today's Progress**: Learned how to authenticate test user and how to assert a user. Also learned about mocking libraries.
+
+**Thoughts:** Authentication is still a bit confusing but learning how to assert a user is useful because it means that the code is connecting to the database properly. Also mocking is useful because resources does not have to be wasted just to run test cases such as creating users which sends an email automatically to the user's email.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
