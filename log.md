@@ -153,3 +153,11 @@
 **Thoughts:** Authentication is still a bit confusing but learning how to assert a user is useful because it means that the code is connecting to the database properly. Also mocking is useful because resources does not have to be wasted just to run test cases such as creating users which sends an email automatically to the user's email.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 20: May 11, 2021
+
+**Today's Progress**: Created test cases for task in my task app.
+
+**Thoughts:** Testing with jest is getting simpler as I do more. Some parts I need to review but for the most part I think I will be able to test my code using jest.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
