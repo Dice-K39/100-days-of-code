@@ -161,3 +161,11 @@
 **Thoughts:** Testing with jest is getting simpler as I do more. Some parts I need to review but for the most part I think I will be able to test my code using jest.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 21: May 12, 2021
+
+**Today's Progress**: Created test cases for task app.
+
+**Thoughts:** Took a break from regular course work and worked on extra test cases on my task app. Creating test cases is getting easier but the HTTP code I need to study.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
