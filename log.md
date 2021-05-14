@@ -169,3 +169,11 @@
 **Thoughts:** Took a break from regular course work and worked on extra test cases on my task app. Creating test cases is getting easier but the HTTP code I need to study.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 22: May 13, 2021
+
+**Today's Progress**: Started creating a chat app. Learned about WebSockets.
+
+**Thoughts:** 
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
