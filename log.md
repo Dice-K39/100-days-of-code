@@ -174,6 +174,22 @@
 
 **Today's Progress**: Started creating a chat app. Learned about WebSockets.
 
-**Thoughts:** 
+**Thoughts:**
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/blob/main/task-manager/src/)
+
+## Day 23: May 14, 2021
+
+**Today's Progress**: Learned how to send a message to all clients connected to server (testing using a couple of browser windows open and printing message to console).
+
+**Thoughts:** So cool that a message is sent to all clients connected to server! Oddly excited lol.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
+
+## Day 24: May 15, 2021
+
+**Today's Progress**: Learned how to broadcast messages, sharing location, and acknowledging data has been received.
+
+**Thoughts:** Socket.io is easy to learn and oddly fun to code with.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
