@@ -193,3 +193,11 @@
 **Thoughts:** Socket.io is easy to learn and oddly fun to code with.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
+
+## Day 25: May 16, 2021
+
+**Today's Progress**: Made some user interface enhancements to my chat app.
+
+**Thoughts:** Not much of a progress today. Had so much to do before starting. 
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
