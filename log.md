@@ -198,6 +198,14 @@
 
 **Today's Progress**: Made some user interface enhancements to my chat app.
 
-**Thoughts:** Not much of a progress today. Had so much to do before starting. 
+**Thoughts:** Not much of a progress today. Had so much to do before starting.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
+
+## Day 26: May 17, 2021
+
+**Today's Progress**: Learned how to use mustache.
+
+**Thoughts:** Mustache was easy to use.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
