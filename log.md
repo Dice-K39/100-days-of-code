@@ -209,3 +209,11 @@
 **Thoughts:** Mustache was easy to use.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
+
+## Day 27: May 18, 2021
+
+**Today's Progress**: Learned how to create rooms using socket.io.
+
+**Thoughts:** I am learning so many new things from the Node.js course from Udemy. I just hope I can retain the knowledge and use it at a job.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
