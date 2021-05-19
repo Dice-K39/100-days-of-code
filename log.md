@@ -217,3 +217,11 @@
 **Thoughts:** I am learning so many new things from the Node.js course from Udemy. I just hope I can retain the knowledge and use it at a job.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
+
+## Day 28: May 19, 2021
+
+**Today's Progress**: Learned how to store usernames, retrieving them, and removing them for my chat app.
+
+**Thoughts:** Basic array manipulation. Easy!
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
