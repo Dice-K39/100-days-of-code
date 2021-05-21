@@ -225,3 +225,11 @@
 **Thoughts:** Basic array manipulation. Easy!
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
+
+## Day 29: May 20, 2021
+
+**Today's Progress**: Finished chat app. Added functionality of tracking users joining and leaving, sending messages to a room, rendering a user list and room name in sidebar, and autoscroll feature when user is viewing the latest message.
+
+**Thoughts:** I had fun creating the chat app. I was more excited creating this than the other apps. Also pushed to Heroku and works just as it works locally.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
