@@ -233,3 +233,9 @@
 **Thoughts:** I had fun creating the chat app. I was more excited creating this than the other apps. Also pushed to Heroku and works just as it works locally.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Node.js/tree/main/chat-app)
+
+## Day 30: May 21, 2021
+
+**Today's Progress**: Started on iOS Development course on Udemy.
+
+**Thoughts:** Been contemplating on what to learn next. I thought about the general idea why I want to code. The only reason is that I love to code. Then I thought about what specific technology I want to code for and I realized I love to do mobile development. It is mostly because of a game I started playing a few years ago which had graphics on par with a desktop computer. So I decided on doing iOS development and once done go into Unity with C# development.
