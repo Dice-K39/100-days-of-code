@@ -239,3 +239,11 @@
 **Today's Progress**: Started on iOS Development course on Udemy.
 
 **Thoughts:** Been contemplating on what to learn next. I thought about the general idea why I want to code. The only reason is that I love to code. Then I thought about what specific technology I want to code for and I realized I love to do mobile development. It is mostly because of a game I started playing a few years ago which had graphics on par with a desktop computer. So I decided on doing iOS development and once done go into Unity with C# development.
+
+## Day 31: May 22, 2021
+
+**Today's Progress**: Did a walkthrough of creating a simple iOS app.
+
+**Thoughts:** Very simple to do. I think I have done this when I was learning Visual Basic a long time ago.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/I%20am%20Rich)
