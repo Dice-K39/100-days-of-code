@@ -247,3 +247,11 @@
 **Thoughts:** Very simple to do. I think I have done this when I was learning Visual Basic a long time ago.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/I%20am%20Rich)
+
+## Day 32: May 23, 2021
+
+**Today's Progress**: Started coding a cloned app.
+
+**Thoughts:** Still new to the way Swift is coded. Excited!
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Dicee-iOS13)
