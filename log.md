@@ -255,3 +255,11 @@
 **Thoughts:** Still new to the way Swift is coded. Excited!
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Dicee-iOS13)
+
+## Day 33: May 24, 2021
+
+**Today's Progress**: Completed cloned app.
+
+**Thoughts:** Able to make a simple app that shows two die with random numbers. Randomization and syntax was simple. Nothing out of the way of my experience with other languages.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Dicee-iOS13)
