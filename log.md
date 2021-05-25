@@ -263,3 +263,11 @@
 **Thoughts:** Able to make a simple app that shows two die with random numbers. Randomization and syntax was simple. Nothing out of the way of my experience with other languages.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Dicee-iOS13)
+
+## Day 34: May 25, 2021
+
+**Today's Progress**: Cloned another app and completed it.
+
+**Thoughts:** Cloned another repo and worked on it. Had an error but fixed it by relinking the UI element to the code that it belongs to. Still new but this is getting interesting!
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Magic-8-Ball-iOS1)
