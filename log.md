@@ -271,3 +271,11 @@
 **Thoughts:** Cloned another repo and worked on it. Had an error but fixed it by relinking the UI element to the code that it belongs to. Still new but this is getting interesting!
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Magic-8-Ball-iOS1)
+
+## Day 35: May 26, 2021
+
+**Today's Progress**: Learned about auto layout and responsive UI.
+
+**Thoughts:** Getting the layout to be what you want is pretty hard. Must work on it!
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/AutoLayout-iOS13)
