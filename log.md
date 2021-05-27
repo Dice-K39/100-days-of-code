@@ -279,3 +279,11 @@
 **Thoughts:** Getting the layout to be what you want is pretty hard. Must work on it!
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/AutoLayout-iOS13)
+
+## Day 36: May 27, 2021
+
+**Today's Progress**: Created functions with arguments in Swift.
+
+**Thoughts:** I thought creating variables was the same as other languages but when it was time to create argument variables, I was wrong. The variable name comes first and then a colon and then the data type. Hard to break my habit of creating a variable with data type in the front of the variable name.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Xylophone-iOS13)
