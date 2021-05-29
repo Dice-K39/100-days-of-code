@@ -287,3 +287,11 @@
 **Thoughts:** I thought creating variables was the same as other languages but when it was time to create argument variables, I was wrong. The variable name comes first and then a colon and then the data type. Hard to break my habit of creating a variable with data type in the front of the variable name.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Xylophone-iOS13)
+
+## Day 37: May 28, 2021
+
+**Today's Progress**: Finished an app where it counts down to 0. Learned about optionals and Timer.
+
+**Thoughts:** Very tedious to create a Timer. The selector property does not take a method with an argument so the argument had to be set as a global variable and changed through the method.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/EggTimer-iOS13)
