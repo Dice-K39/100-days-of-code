@@ -295,3 +295,10 @@
 **Thoughts:** Very tedious to create a Timer. The selector property does not take a method with an argument so the argument had to be set as a global variable and changed through the method.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/EggTimer-iOS13)
+
+## Day 38: May 29, 2021
+
+**Today's Progress**: Learned how to create structs and functions with return types and recap on MVC design pattern.
+
+**Thoughts:** MVC design pattern was a recap since Ruby on Rails was all about the pattern. Creating structs and functions with return types was somewhat new to me since I started programming from C++. Structs was similar to C++ but returning a value from a function was a bit new. Use a -> with what data type it is returning.
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Quizzler-iOS13)
