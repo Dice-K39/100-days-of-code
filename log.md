@@ -301,4 +301,13 @@
 **Today's Progress**: Learned how to create structs and functions with return types and recap on MVC design pattern.
 
 **Thoughts:** MVC design pattern was a recap since Ruby on Rails was all about the pattern. Creating structs and functions with return types was somewhat new to me since I started programming from C++. Structs was similar to C++ but returning a value from a function was a bit new. Use a -> with what data type it is returning.
+
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Quizzler-iOS13)
+
+## Day 39: May 30, 2021
+
+**Today's Progress**: Working on a challenge with MVC design pattern with a cloned project in Swift.
+
+**Thoughts:** I still have some hiccups on how to code in the MVC pattern but I am understanding it little by little.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Destini-iOS13)
