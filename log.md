@@ -311,3 +311,11 @@
 **Thoughts:** I still have some hiccups on how to code in the MVC pattern but I am understanding it little by little.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Destini-iOS13)
+
+## Day 40: May 31, 2021
+
+**Today's Progress**: Completed challenge from yesterday about MVC design pattern.
+
+**Thoughts:** Practicing the MVC design pattern helps me understand the concept better. I know this will help me retain the knowledge better and be a better programmer.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Destini-iOS13)
