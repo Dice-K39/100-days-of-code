@@ -319,3 +319,11 @@
 **Thoughts:** Practicing the MVC design pattern helps me understand the concept better. I know this will help me retain the knowledge better and be a better programmer.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Destini-iOS13)
+
+## Day 41: June 1, 2021
+
+**Today's Progress**: Cloned and completed majority of a Swift project that calculates the user's BMI from two two sliders, one for height and another for weight.
+
+**Thoughts:** Retrieving values is becoming easier as I practice doing them in Swift. Everything is just practice!
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/BMI-Calculator-iOS13)
