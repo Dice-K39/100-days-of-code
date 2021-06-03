@@ -327,3 +327,11 @@
 **Thoughts:** Retrieving values is becoming easier as I practice doing them in Swift. Everything is just practice!
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/BMI-Calculator-iOS13)
+
+## Day 42: June 2, 2021
+
+**Today's Progress**: Learned about how to create UI by code and using segues to navigate multi-screen apps.
+
+**Thoughts:** Segues is a new concept that I need to review. Listening to the instructor makes it hard to make any sense.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/BMI-Calculator-iOS13)
