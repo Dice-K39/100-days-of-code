@@ -335,3 +335,11 @@
 **Thoughts:** Segues is a new concept that I need to review. Listening to the instructor makes it hard to make any sense.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/BMI-Calculator-iOS13)
+
+## Day 43: June 3, 2021
+
+**Today's Progress**: Learned more about optionals since JavaScript.
+
+**Thoughts:** The concept of optionals is easy to understand but putting it into practice is tough. Another thing I have to work on.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/BMI-Calculator-iOS13)
