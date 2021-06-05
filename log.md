@@ -343,3 +343,11 @@
 **Thoughts:** The concept of optionals is easy to understand but putting it into practice is tough. Another thing I have to work on.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/BMI-Calculator-iOS13)
+
+## Day 44: June 4, 2021
+
+**Today's Progress**: Cloned a tip calculating app project and created IBActions and IBOutlets for calculator and results screen. Also button functionality for tip labels.
+
+**Thoughts:** General setup is pretty easy, linking outlets and actions. Coding the functionality gets a little bit tricky but starting to understand from me trying and viewing how the instructor done it.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Tipsy-iOS13)
