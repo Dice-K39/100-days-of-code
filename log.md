@@ -351,3 +351,11 @@
 **Thoughts:** General setup is pretty easy, linking outlets and actions. Coding the functionality gets a little bit tricky but starting to understand from me trying and viewing how the instructor done it.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Tipsy-iOS13)
+
+## Day 45: June 5, 2021
+
+**Today's Progress**: Completed tip calculating app project.
+
+**Thoughts:** Segues still give me problems but understanding it a bit more. Still need to work on it
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Tipsy-iOS13)
