@@ -356,6 +356,14 @@
 
 **Today's Progress**: Completed tip calculating app project.
 
-**Thoughts:** Segues still give me problems but understanding it a bit more. Still need to work on it
+**Thoughts:** Segues still give me problems but understanding it a bit more. Still need to work on it.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/Tipsy-iOS13)
+
+## Day 46: June 6, 2021
+
+**Today's Progress**: Cloned a new project for lesson and learned about dark mode and vector assets.
+
+**Thoughts:** Spent majority of time on fixing my git repository so not much progress in Swift. I did learn plenty of new things like how XCode handles dark mode and using vector assets.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
