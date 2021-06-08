@@ -367,3 +367,13 @@
 **Thoughts:** Spent majority of time on fixing my git repository so not much progress in Swift. I did learn plenty of new things like how XCode handles dark mode and using vector assets.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
+
+## Day 47: June 7, 2021
+
+**Today's Progress**: Learned about delegate methods and protocols.
+
+**Thoughts:** Swift protocols are like Java interface. Need to implement if given to a class.
+
+**Link to work:** [Project GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
+
+[Protocol Demo](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Protocol%20Demo)
