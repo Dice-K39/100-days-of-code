@@ -377,3 +377,11 @@
 **Link to work:** [Project GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
 
 [Protocol Demo](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Protocol%20Demo)
+
+## Day 48: June 8, 2021
+
+**Today's Progress**: Learned more about protocols and delegates.
+
+**Thoughts:** Protocols and delegates goes hand in hand. Delegate classes receives the call from a class to perform a method that needs to be implemented (protocol). 
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Protocols%20and%20Delagates)
