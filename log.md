@@ -393,3 +393,9 @@
 **Thoughts:** Using URLSession is different from using fetch in JavaScript. Need to create a URLSession and use dataTask to handle the incoming data from the API. resume() will start the task.
 
 **Link to work:** [Project GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
+
+## Day 49: June 9, 2021
+
+**Today's Progress**: Learned about Swift closures.
+
+**Thoughts:** Closures seems like a straightforward concept. An anonymous function that is the last argument in a function's parameter list. Seems different than JavaScript closure. Need to look into it.
