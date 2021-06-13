@@ -408,3 +408,10 @@
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
 
+## Day 52: June 12, 2021
+
+**Today's Progress**: Created WeatherModel and learned about computed properties.
+
+**Thoughts:** The WeatherModel is a struct that stores the weather information from the API. A computed property called conditionName will compute the id from the API and return the proper image for the weather.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
