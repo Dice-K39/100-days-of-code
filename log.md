@@ -436,6 +436,6 @@
 
 **Today's Progress**: Reviewed Swift protocols.
 
-**Thoughts:** Protocols is the same as Java interface. It is abstract, contains abstract properties and methods, and any class using the protocol has to define the method in the class that is using it.
+**Thoughts:** Protocols is the same as Java interface. It is abstract, contains abstract properties and methods, a class can implement multiple protocols, and any class using the protocol has to define the method in the class that is using it.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
