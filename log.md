@@ -423,3 +423,11 @@
 **Thoughts:** Protocols and delegates is still challenging to me. Thinking of redoing this section to understand the concept fully.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
+
+## Day 54: June 14, 2021
+
+**Today's Progress**: Reviewed UITextField.
+
+**Thoughts:** Decided to start reviewing a few topics that I vaguely understand.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
