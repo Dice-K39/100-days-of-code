@@ -428,6 +428,14 @@
 
 **Today's Progress**: Reviewed UITextField.
 
-**Thoughts:** Decided to start reviewing a few topics that I vaguely understand.
+**Thoughts:** Decided to start reviewing a few topics that I vaguely understand. 
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
+
+## Day 55: June 15, 2021
+
+**Today's Progress**: Reviewed Swift protocols.
+
+**Thoughts:** Protocols is the same as Java interface. It is abstract, contains abstract properties and methods, and any class using the protocol has to define the method in the class that is using it.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
