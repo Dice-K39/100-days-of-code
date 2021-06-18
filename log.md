@@ -447,3 +447,11 @@
 **Thoughts:** The delegate design pattern is where a class implements a protocol that is used in an element such as an UITextField. Any class that implements the protocol written under that element can use that element for any purpose that the app is for.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
+
+## Day 57: June 17, 2021
+
+**Today's Progress**: Reviewed how protocols and delegates are used.
+
+**Thoughts:** The class that designates itself as the delegate will do the biding of the class that calls the delegate. The calling class does not care about who is doing the action.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
