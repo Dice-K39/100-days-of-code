@@ -455,3 +455,11 @@
 **Thoughts:** The class that designates itself as the delegate will do the biding of the class that calls the delegate. The calling class does not care about who is doing the action.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
+
+## Day 58: June 18, 2021
+
+**Today's Progress**: Reviewed URLSession.
+
+**Thoughts:** Steps to requesting data from an API is to create a url, create a URLSession, give the session a task, and then start the task. The steps of this is littered with optional chaining because one part of the step may not exist.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
