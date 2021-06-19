@@ -463,3 +463,11 @@
 **Thoughts:** Steps to requesting data from an API is to create a url, create a URLSession, give the session a task, and then start the task. The steps of this is littered with optional chaining because one part of the step may not exist.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
+
+## Day 59: June 19, 2021
+
+**Today's Progress**: Reviewed closures.
+
+**Thoughts:** Closures are functions that are passed into a function as input. I am amazed that a multi-lined function can be reduced to a one line call to a function using the closure as input.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Closures.playground)
