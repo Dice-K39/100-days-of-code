@@ -471,3 +471,11 @@
 **Thoughts:** Closures are functions that are passed into a function as input. I am amazed that a multi-lined function can be reduced to a one line call to a function using the closure as input.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Closures.playground)
+
+## Day 60: June 20, 2021
+
+**Today's Progress**: Reviewec how to decode JSON to Swift Objects.
+
+**Thoughts:** I finally understand why I created structs for JSON. Swift does not have a way to decode JSON directly so I have to create structs to unpack the JSON objects into Swift objects. Tedious indeed.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
