@@ -474,7 +474,7 @@
 
 ## Day 60: June 20, 2021
 
-**Today's Progress**: Reviewec how to decode JSON to Swift Objects.
+**Today's Progress**: Reviewed how to decode JSON to Swift Objects.
 
 **Thoughts:** I finally understand why I created structs for JSON. Swift does not have a way to decode JSON directly so I have to create structs to unpack the JSON objects into Swift objects. Tedious indeed.
 
