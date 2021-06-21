@@ -479,3 +479,11 @@
 **Thoughts:** I finally understand why I created structs for JSON. Swift does not have a way to decode JSON directly so I have to create structs to unpack the JSON objects into Swift objects. Tedious indeed.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
+
+## Day 61: June 21, 2021
+
+**Today's Progress**: Reviewed computed properties.
+
+**Thoughts:** Computed properties are always changing so must be declared using the var keyword. AFter that, it is the same as declaring a variable except that it has a sort of function body for computation purposes.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
