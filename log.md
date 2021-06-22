@@ -487,3 +487,11 @@
 **Thoughts:** Computed properties are always changing so must be declared using the var keyword. AFter that, it is the same as declaring a variable except that it has a sort of function body for computation purposes.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
+
+## Day 62: June 22, 2021
+
+**Today's Progress**: Learned that Swift has an external and internal parameter names.
+
+**Thoughts:** External parameter names are used when calling the function. Internal parameter names are used inside the function with the passed in data as the internal parameter name. Another option in calling the function is that the external parameter name can be completely omitted if the function itself is defined with an underscore before the internal parameter name (func myFunc(_ name: Type)).
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
