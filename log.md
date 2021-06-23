@@ -495,3 +495,11 @@
 **Thoughts:** External parameter names are used when calling the function. Internal parameter names are used inside the function with the passed in data as the internal parameter name. Another option in calling the function is that the external parameter name can be completely omitted if the function itself is defined with an underscore before the internal parameter name (func myFunc(_ name: Type)).
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
+
+## Day 63: June 23, 2021
+
+**Today's Progress**: Learned about Swift error handling and updating UI with DispatchQueue.
+
+**Thoughts:** Used protocol and delegate to error handle. Used DispatchQueue to update UI. Updating UI is not possible in a completion handler because data is not available to update until it came back from the server.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
