@@ -503,3 +503,11 @@
 **Thoughts:** Used protocol and delegate to error handle. Used DispatchQueue to update UI. Updating UI is not possible in a completion handler because data is not available to update until it came back from the server.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Clima-iOS13)
+
+## Day 64: June 24, 2021
+
+**Today's Progress**: Learned about extensions.
+
+**Thoughts:** Extensions helps in implementing functionality after an app is rolled off to production. Also helps in giving any protocol implementing struct or class a default implementation.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Extensions.playground)
