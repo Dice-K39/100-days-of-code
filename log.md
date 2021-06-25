@@ -511,3 +511,11 @@
 **Thoughts:** Extensions helps in implementing functionality after an app is rolled off to production. Also helps in giving any protocol implementing struct or class a default implementation.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Extensions.playground)
+
+## Day 65: June 25, 2021
+
+**Today's Progress**: Learned about CoreLocation in Swift.
+
+**Thoughts:** Process of retrieving location data is done by importing CoreLocation.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Extensions.playground)
