@@ -519,3 +519,11 @@
 **Thoughts:** Process of retrieving location data is done by importing CoreLocation.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Extensions.playground)
+
+## Day 66: June 26, 2021
+
+**Today's Progress**: Fixed bugs in weather app.
+
+**Thoughts:** Kept on getting the weather of London even when typing in a different location. Problem was the url contained a query for London so the returned data was always London.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Extensions.playground)
