@@ -535,3 +535,11 @@
 **Thoughts:** Able to fetch data from the api. Also found a way to not enter API key everytime I want to test the code (same as every other languange): assign API key to a variable and put in a separate file and then use .gitignore. Use the variable instead of the actual key so that it will remove the mundane task of placing and removing API key to test code.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/ByteCoin-iOS13/ByteCoin)
+
+## Day 68: June 28, 2021
+
+**Today's Progress**: Completed bitcoin app project.
+
+**Thoughts:** Not bad but I still had some trouble with how to parse the data into a Swift object.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/ByteCoin-iOS13/ByteCoin)
