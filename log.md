@@ -543,3 +543,11 @@
 **Thoughts:** Not bad but I still had some trouble with how to parse the data into a Swift object.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/ByteCoin-iOS13/ByteCoin)
+
+## Day 69: June 29, 2021
+
+**Today's Progress**: Cloned new project and started with adding a navigation controller and segues to each page.
+
+**Thoughts:** Navigation controller added a back button on each page except the first page of app. Also added segues for path to each page.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
