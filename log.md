@@ -567,3 +567,11 @@
 **Thoughts:** Feels good that one line of code makes CLTypingLabel work instead of having over 10 lines of code for the same functionality. Firebase installation takes time.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
+
+## Day 72: July 2, 2021
+
+**Today's Progress**: Learned how to use Firebase to sign up and log in user.
+
+**Thoughts:** Firebase was easy to implement into the project. Google described the steps in a simple way that first time users would understand how to implement it.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
