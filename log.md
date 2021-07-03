@@ -575,3 +575,11 @@
 **Thoughts:** Firebase was easy to implement into the project. Google described the steps in a simple way that first time users would understand how to implement it.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
+
+## Day 73: July 3, 2021
+
+**Today's Progress**: Finished with logout function on Swift app and redirects user all the way back to the title screen.
+
+**Thoughts:** Able to finish logout function with ease with Google's documentation. Logout function will redirect user to the title screen of the app.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
