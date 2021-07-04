@@ -583,3 +583,11 @@
 **Thoughts:** Able to finish logout function with ease with Google's documentation. Logout function will redirect user to the title screen of the app.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
+
+## Day 74: July 4, 2021
+
+**Today's Progress**: Used a file to store each string used in Swift app to a variable.
+
+**Thoughts:** Using a file to store each non-changing string to a variable would reduce misspelling mistakes that may waste time debugging. 
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
