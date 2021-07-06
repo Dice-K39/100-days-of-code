@@ -599,3 +599,11 @@
 **Thoughts:** UITableView is a container for cells that shows certain data in a table. It will be used to display cells that have messages for the user in the chat app. Also used a xib file to customize how a cell is displayed so that it would look much like an authentic chat app.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
+
+## Day 76: July 6, 2021
+
+**Today's Progress**: Learned about different keywords for typecasting (as, as?, as!, is).
+
+**Thoughts:** is keyword is for comparing, as? and as! keywords are for downcasting from superclass to subclass, and as keyword is for upcasting from subclass to superclass.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Class.playground)
