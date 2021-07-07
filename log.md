@@ -607,3 +607,11 @@
 **Thoughts:** is keyword is for comparing, as? and as! keywords are for downcasting from superclass to subclass, and as keyword is for upcasting from subclass to superclass.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Class.playground)
+
+## Day 77: July 7, 2021
+
+**Today's Progress**: Created a Firestore database and implemented code that sends to the database.
+
+**Thoughts:** With the documentation's help, I was able to implement the code to send data from the chat app to Firebase database. As always, easy to do.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
