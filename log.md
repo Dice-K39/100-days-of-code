@@ -615,3 +615,11 @@
 **Thoughts:** With the documentation's help, I was able to implement the code to send data from the chat app to Firebase database. As always, easy to do.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
+
+## Day 78: July 8, 2021
+
+**Today's Progress**: Learned how to retrieve data from Firestore and update messages on the fly by listening for changes.
+
+**Thoughts:** Retrieving data from the FIrestore was full of optionals. Just to retrieve data, had to go 3 levels deep in optionals. Used optional binding. It is understandable but just feels messy.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
