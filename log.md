@@ -623,3 +623,11 @@
 **Thoughts:** Retrieving data from the FIrestore was full of optionals. Just to retrieve data, had to go 3 levels deep in optionals. Used optional binding. It is understandable but just feels messy.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
+
+## Day 79: July 9, 2021
+
+**Today's Progress**: Sorted data coming from Firestore and used another package using Swift Package Manager.
+
+**Thoughts:** Data in Firestore is sorted by collection id. To have it sorted, used date that was based on when each data was sent to the database. When retrieving the data, the app sorts data by its date.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
