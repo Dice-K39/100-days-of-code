@@ -631,3 +631,11 @@
 **Thoughts:** Data in Firestore is sorted by collection id. To have it sorted, used date that was based on when each data was sent to the database. When retrieving the data, the app sorts data by its date.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
+
+## Day 80: July 10, 2021
+
+**Today's Progress**: Finished with UI on the chat app.
+
+**Thoughts:** Worked on UI improvements such as scrolling to the latest message, differentiating from sender and receipient of a message by coloring, emptying text bar once send is pressed, and showing the navigation bar in appropriate places. Touched on lifecycle methods.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
