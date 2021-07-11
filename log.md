@@ -639,3 +639,11 @@
 **Thoughts:** Worked on UI improvements such as scrolling to the latest message, differentiating from sender and receipient of a message by coloring, emptying text bar once send is pressed, and showing the navigation bar in appropriate places. Touched on lifecycle methods.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Flash-Chat-iOS13)
+
+## Day 81: July 11, 2021
+
+**Today's Progress**: Learned more about ViewController and App lifecycle methods.
+
+**Thoughts:** Lifecycle methods runs in the background unless explicitly overrided with custom code in the body. Useful for doing things before, during, after, and being destroyed.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/AppLifecycle)
