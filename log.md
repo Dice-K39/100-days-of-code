@@ -653,3 +653,11 @@
 **Today's Progress**: Learned about shortcuts that can be used in terminal.
 
 **Thoughts:** Nice to know that there are shortcuts that can be used to quickly do what I need to do in terminal. I usually use the keyboard to do what I need to do. Didn't know that Alt plus the mouse I can click anywhere on the command text to go to that point.
+
+## Day 83: July 13, 2021
+
+**Today's Progress**: Learned about SwiftUI.
+
+**Thoughts:** SwiftUI made creating an app simpler by just click and dragging elements from the Object Library.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/I%20Am%20Rich%202)
