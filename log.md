@@ -664,7 +664,7 @@
 
 ## Day 84: July 14, 2021
 
-**Today's Progress**: Used SwiftUI to make a demo business card app using complex designs and layout with SwiftUI.
+**Today's Progress**: Used SwiftUI to make a demo business card app using complex designs and layout with.
 
 **Thoughts:** Less code and a complex design app. Very neat.
 
