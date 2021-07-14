@@ -661,3 +661,11 @@
 **Thoughts:** SwiftUI made creating an app simpler by just click and dragging elements from the Object Library.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/I%20Am%20Rich%202)
+
+## Day 84: July 14, 2021
+
+**Today's Progress**: Used SwiftUI to make a demo business card app using complex designs and layout with SwiftUI.
+
+**Thoughts:** Less code and a complex design app. Very neat.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Dice-KCard)
