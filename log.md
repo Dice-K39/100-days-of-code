@@ -669,3 +669,11 @@
 **Thoughts:** Less code and a complex design app. Very neat.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Dice-KCard)
+
+## Day 85: July 15, 2021
+
+**Today's Progress**: Used SwiftUI to create an app with functionality.
+
+**Thoughts:** The laziness of programmers are showing using SwiftUI. Apps can be easily created. The only hard part is designing the looks of the app.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Dicee-SwiftUI)
