@@ -682,6 +682,6 @@
 
 **Today's Progress**: Used SwiftUI to create a news app that uses an API from algolia.com.
 
-**Thoughts:** Learning the basics was fundamental in learning SwiftUI. If I started on SwiftUI, I would have given up quickly if I had to do the same thing through writing pages of code to do the same thing. 
+**Thoughts:** Learning the basics was fundamental in learning SwiftUI. If I started on SwiftUI, I would have given up quickly if I had to do the same thing through writing pages of code to do the same thing.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/H4XOR%20News)
