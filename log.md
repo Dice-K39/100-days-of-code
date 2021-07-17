@@ -685,3 +685,11 @@
 **Thoughts:** Learning the basics was fundamental in learning SwiftUI. If I started on SwiftUI, I would have given up quickly if I had to do the same thing through writing pages of code to do the same thing.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/H4XOR%20News)
+
+## Day 87: July 17, 2021
+
+**Today's Progress**: Started on a to do list app.
+
+**Thoughts:** Getting used to UITableViewController. Forgotten some methods used to display data in a table.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
