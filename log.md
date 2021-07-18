@@ -693,3 +693,12 @@
 **Thoughts:** Getting used to UITableViewController. Forgotten some methods used to display data in a table.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 88: July 18, 2021
+
+**Today's Progress**: Learned about UserDefaults.
+
+**Thoughts:** UserDefaults is not a database. It is a place that saves, for example, configuration settings for apps. Do not abuse as a database or the app will slowdown.
+
+**Link to work:** [App](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+[UserDefaults](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/UserDefaults.playground)
