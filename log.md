@@ -702,3 +702,11 @@
 
 **Link to work:** [App](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
 [UserDefaults](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/UserDefaults.playground)
+
+## Day 89: July 19, 2021
+
+**Today's Progress**: Learned about singletons.
+
+**Thoughts:** Only creates one instance per app run.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Singleton.playground)
