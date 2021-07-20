@@ -710,3 +710,11 @@
 **Thoughts:** Only creates one instance per app run.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Singleton.playground)
+
+## Day 90: July 20, 2021
+
+**Today's Progress**: Created a data model to easily create todo list tasks and used ternary operator to check and uncheck tasks.
+
+**Thoughts:** Nothing too hard. Using an assignment operator for the condition threw me off guard though.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
