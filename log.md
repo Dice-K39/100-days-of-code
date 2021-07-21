@@ -718,3 +718,11 @@
 **Thoughts:** Nothing too hard. Using an assignment operator for the condition threw me off guard though.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 91: July 21, 2021
+
+**Today's Progress**: Used NSCoder to save and load data.
+
+**Thoughts:** Better than using UserDefaults.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
