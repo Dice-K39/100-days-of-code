@@ -734,3 +734,11 @@
 **Thoughts:** CoreData interfaces with SQLite, which I have used in the past with Rails. Would be nice to get some brush ups with SQLite.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 93: July 23, 2021
+
+**Today's Progress**: Went through CRUD using CoreData.
+
+**Thoughts:** Learning how to do the CRUD operations using CoreData was simple enough. 
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
