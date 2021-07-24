@@ -739,6 +739,14 @@
 
 **Today's Progress**: Went through CRUD using CoreData.
 
-**Thoughts:** Learning how to do the CRUD operations using CoreData was simple enough. 
+**Thoughts:** Learning how to do the CRUD operations using CoreData was simple enough.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 94: July 24, 2021
+
+**Today's Progress**: Implemented a UISearchBar and queried CoreData database for exact matched words.
+
+**Thoughts:** Used NSPredicate to create a logical condition to constrain a search either for a fetch or for in-memory filtering. Used a line of Objective-C code.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
