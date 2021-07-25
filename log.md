@@ -750,3 +750,11 @@
 **Thoughts:** Used NSPredicate to create a logical condition to constrain a search either for a fetch or for in-memory filtering. Used a line of Objective-C code.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 95: July 25, 2021
+
+**Today's Progress**: Created functionality where after searching, pressing the x in the textbox will take user back to all items in the todo list. Also created another view controller and created a relationship between two types using a graph in xCode.
+
+**Thoughts:** The relationship graph is new to me. It made creating relationships between two tables easier to visualize.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
