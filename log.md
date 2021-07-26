@@ -758,3 +758,11 @@
 **Thoughts:** The relationship graph is new to me. It made creating relationships between two tables easier to visualize.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 96: July 26, 2021
+
+**Today's Progress**: Added delegate methods to swtich to a new view controller where the app displays things to do under a category.
+
+**Thoughts:** With all the code already in place, was harder to implement a segue that switches view controller. 
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
