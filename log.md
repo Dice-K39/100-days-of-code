@@ -763,6 +763,14 @@
 
 **Today's Progress**: Added delegate methods to swtich to a new view controller where the app displays things to do under a category.
 
-**Thoughts:** With all the code already in place, was harder to implement a segue that switches view controller. 
+**Thoughts:** With all the code already in place, was harder to implement a segue that switches view controller.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 97: July 27, 2021
+
+**Today's Progress**: Installed Realm to the to do app.
+
+**Thoughts:** Installed Realm using Cocoapods. Added so many files that git froze. Decided to use gitignore to ignore the Realm files.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
