@@ -774,3 +774,11 @@
 **Thoughts:** Installed Realm using Cocoapods. Added so many files that git froze. Decided to use gitignore to ignore the Realm files.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 98: July 28, 2021
+
+**Today's Progress**: Started creating data using Realm.
+
+**Thoughts:** Less code to create data with Realm.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
