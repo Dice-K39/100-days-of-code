@@ -782,3 +782,11 @@
 **Thoughts:** Less code to create data with Realm.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 99: July 30, 2021
+
+**Today's Progress**: Went through R of CRUD using Realm.
+
+**Thoughts:** Less code is great. Realm makes the code shorter and concise than using CoreData.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
