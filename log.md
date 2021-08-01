@@ -790,3 +790,11 @@
 **Thoughts:** Less code is great. Realm makes the code shorter and concise than using CoreData.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 100: August 1, 2021
+
+**Today's Progress**: Worked on U and D of CRUD using Realm.
+
+**Thoughts:** U and D of CRUD using Realm was so simple. I was used to writing several lines of code just to Update a database. Realm really is a great database.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
