@@ -798,3 +798,11 @@
 **Thoughts:** U and D of CRUD using Realm was so simple. I was used to writing several lines of code just to Update a database. Realm really is a great database.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 101: August 2, 2021
+
+**Today's Progress**: Worked on making search functionality to work in Realm.
+
+**Thoughts:** Shorter code is good. More time to do other work.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
