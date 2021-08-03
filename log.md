@@ -806,3 +806,11 @@
 **Thoughts:** Shorter code is good. More time to do other work.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 102: August 3, 2021
+
+**Today's Progress**: Added delete functionality using SwipeCellKit from Cocoapods.
+
+**Thoughts:** Had a problem that didn't show the delete button after click and swiping left. Restarting the app helped.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
