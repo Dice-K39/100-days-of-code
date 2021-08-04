@@ -814,3 +814,11 @@
 **Thoughts:** Had a problem that didn't show the delete button after click and swiping left. Restarting the app helped.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 103: August 4, 2021
+
+**Today's Progress**: Put everything that made my app swipeable into its own class so that it can be used by two view controllers that I have.
+
+**Thoughts:** Putting code that will be reused in a class will keep the file cleaner and easily maintainable.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
