@@ -822,3 +822,11 @@
 **Thoughts:** Putting code that will be reused in a class will keep the file cleaner and easily maintainable.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 104: August 5, 2021
+
+**Today's Progress**: Used ChameleonFramework by wowasm to add some colorful flair to the Todo app.
+
+**Thoughts:** Persisted the color hexcode so that everytime the app is restarted will not generate random color to the categories.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
