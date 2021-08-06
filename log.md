@@ -830,3 +830,11 @@
 **Thoughts:** Persisted the color hexcode so that everytime the app is restarted will not generate random color to the categories.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 105: August 6, 2021
+
+**Today's Progress**: Borrowed hex value color from category and created a gradient from light to dark of that color.
+
+**Thoughts:** Simple once the hex value is passed onto the TodoItemViewController.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
