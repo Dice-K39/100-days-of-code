@@ -838,3 +838,11 @@
 **Thoughts:** Simple once the hex value is passed onto the TodoItemViewController.
 
 **Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
+
+## Day 106: August 7, 2021
+
+**Today's Progress**: Improvements to the UI and navigation bar.
+
+**Thoughts:** Used colors to improve the UI.
+
+**Link to work:** [GitHub](https://github.com/Dice-K39/Swift/tree/main/iOS%20%26%20Swift%20-%20The%20Complete%20iOS%20App%20Development%20Bootcamp/Projects/Todoey-iOS13)
